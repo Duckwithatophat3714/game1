@@ -206,7 +206,7 @@ function drawBall() {
     ctx.fillStyle = '#fff';
     ctx.font = 'bold 64px sans-serif';
     ctx.textAlign = 'center';
-    ctx.fillText('My Game', canvas.width / 2, canvas.height / 2 - 80);
+    ctx.fillText('Shoot.io', canvas.width / 2, canvas.height / 2 - 80);
 
     ctx.font = '32px sans-serif';
     ctx.fillText('Play', canvas.width / 2, canvas.height / 2);
